@@ -11,6 +11,7 @@ const SearchForm = () => {
     }, 1000);
 
     return () => clearTimeout(timer);
+    // eslint-disable-next-line
   }, [inputValue]);
 
   return (
