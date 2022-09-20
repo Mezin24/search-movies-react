@@ -1,3 +1,7 @@
-```sh
-npm install react-router-dom@6
-```
+### [Search movies](https://luminous-bublanina-a83bfc.netlify.app)
+
+---
+
+#### API
+
+[OMDB API](https://www.omdbapi.com/)
